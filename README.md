@@ -4,7 +4,7 @@
 
 Software engineer with hands-on experience building Android apps, backend systems, ML pipelines, and systems-level C++. I'm open to opportunities across Jordan and the GCC region.
 
-📍 Amman, Jordan · 📧 yaseenammarsharaf@gmail.com · [GitHub](https://github.com/yaseensharaf) · [LinkedIn](https://linkedin.com/in/yaseen-sharaf)
+📍 Amman, Jordan · 📧 yaseenammarsharaf@gmail.com · [GitHub](https://github.com/yaseensharaf) · [LinkedIn](https://www.linkedin.com/in/yaseen-sharaf-7001232a0/)
 
 ---
 
