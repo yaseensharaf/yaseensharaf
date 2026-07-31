@@ -1,133 +1,106 @@
-# Hi, I'm Yaseen Sharaf 👋
+<h1 align="center">Hi, I'm Yaseen Sharaf 👋</h1>
 
-**Computer Science graduate (First Class Honours) · BSc, University of the West of England, Bristol**
-
-Software engineer with hands-on experience building Android apps, backend systems, ML pipelines, and systems-level C++. I'm open to opportunities across Jordan and the GCC region.
-
-📍 Amman, Jordan · 📧 yaseenammarsharaf@gmail.com · [GitHub](https://github.com/yaseensharaf) · [LinkedIn](https://www.linkedin.com/in/yaseen-sharaf-7001232a0/)
-
----
-
-## 🛠 Tech Stack
-
-| Area | Technologies |
-|---|---|
-| **Languages** | Python, Kotlin, C#, JavaScript, C++, SQL |
-| **Backend** | Django, Flask, FastAPI, ASP.NET Core, REST APIs |
-| **Mobile** | Android · Kotlin · MVVM · Jetpack · Firebase |
-| **Databases** | PostgreSQL, SQL Server, Firebase Realtime Database |
-| **ML / Data** | TensorFlow, Scikit-learn, Pandas, LSTM, ARIMA, Random Forest |
-| **DevOps & Tools** | Docker, Docker Compose, GitHub Actions, Git, Postman, Gradle |
-| **Methods** | Agile Scrum, TDD, CRISP-DM |
+<p align="center">
+  <a href="https://linkedin.com/in/yaseen-sharaf">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yaseenammarsharaf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 💫 About Me
 
-**`.NET Developer Intern` — SEDRAPAY for e-Payment Solutions, Amman** *(Jul – Sep 2024)*
+🎓 Computer Science graduate with **First Class Honours** from the University of the West of England.
 
-- Contributed to an ASP.NET Core payment processing pipeline in a live production environment, working across architecture, business logic, and API security
-- Optimised SQL queries in a transactional system, reducing redundant database calls and improving maintainability
-- Participated in Agile sprint cycles: bug triage, regression testing, and backend feature validation alongside senior engineers
+I'm a software engineer interested in **backend development, machine learning, distributed systems, and systems programming**. I enjoy building production-ready applications that solve real-world problems using modern software engineering practices.
 
----
+I have professional experience developing backend solutions with **ASP.NET Core**, and I've built projects ranging from Android applications and ML forecasting systems to FastAPI services and low-level C++ systems.
 
-## 🚀 Projects
-
-### [Daily Groceries — Android Shopping App](https://github.com/yaseensharaf/Grocery-Shopping-App-Kotlin)
-*Kotlin · Firebase · MVVM · Jetpack · Android*
-
-A production-grade native Android grocery app with real-time cart sync, full authentication flow, order history, and push notifications. Built on MVVM with Firebase Realtime Database as the backend — zero server management.
-
-- Real-time cart updates via Firebase Realtime Database
-- Email/password auth with persistent sessions via Firebase Authentication
-- Complete purchase history with chronological order tracking
-- Responsive layouts for phones and tablets (portrait, landscape, 600dp+)
-- Firebase Cloud Messaging for order confirmation notifications
+🔭 Currently strengthening my skills in software engineering, networking, and cloud technologies while looking for new graduate Software Engineer opportunities.
 
 ---
 
-### [Intelligent Retail Demand Forecasting System](https://github.com/yaseensharaf/-DSP-)
-*Python · TensorFlow · ARIMA · Flask · Pandas · Scikit-learn · Plotly*
+## 🌐 Connect
 
-A hybrid ARIMA-LSTM machine learning platform trained on H&M transactional data (2015–2023), forecasting product-level sales up to 5 years ahead (2024–2028) via an interactive Flask dashboard.
-
-- Hybrid model: 90% ARIMA (linear trends) + 10% LSTM (non-linear residuals)
-- 60-month forecasts for all eligible products across 3 retail datasets
-- Business intelligence pages: trending products, lowest sellers, inventory recommendations
-- Dark/light mode, responsive dashboard, per-product interactive charts
-- Full CRISP-DM methodology; all forecasts exported as CSV + PNG
+- 💼 LinkedIn: [linkedin.com/in/yaseen-sharaf](https://linkedin.com/in/yaseen-sharaf)
+- 📧 Email: [yaseenammarsharaf@gmail.com](mailto:yaseenammarsharaf@gmail.com)
 
 ---
 
-### [Real-Time Labor Demand Predictor](https://github.com/yaseensharaf/labor-demand-predictor)
-*Python · FastAPI · React · Scikit-learn · Random Forest · Docker*
+## 💻 Tech Stack
 
-A full-stack ML application that forecasts daily workforce requirements for manufacturing and distribution facilities. Exposes predictions via a REST API and interactive React dashboard.
+**Languages**
 
-- Random Forest model: R² = 0.95, MAE ≈ 2.36 workers
-- Factors: day of week, seasonality, holidays, industry type, weather events
-- FastAPI backend with Swagger/OpenAPI docs; React + Vite frontend
-- Fully containerised with Docker Compose for one-command deployment
-- Human-readable demand explanations per prediction
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Backend**
 
-### [IoT Log File Management System](https://gitlab.uwe.ac.uk/y2-sharaf/iot_starter)
-*C++ · Make · SimpleTest*
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-25D366?style=flat-square&logo=fastapi&logoColor=white)
 
-A C++ IoT log processing system built across three progressive tasks: message extraction, log-level parsing, and line reformatting — with a full unit test suite using the SimpleTest framework.
+**Frontend & Mobile**
 
-- Modular design with a `Log` class separating parsing logic from I/O
-- Five structured test cases covering file opening, sequential reads, and log-level extraction
-- Progressive enhancement pattern: each task builds on the last
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-5C2D91?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+**Machine Learning**
 
-### [Fiber Scheduler — Cooperative Multitasking in C++](https://gitlab.uwe.ac.uk/y2-sharaf/asp_assignment)
-*C++ · x86-64 Assembly · Clang*
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=flat-square)
+![ARIMA](https://img.shields.io/badge/ARIMA-8A2BE2?style=flat-square)
 
-A lightweight user-space fiber scheduler implementing cooperative multitasking from scratch — context switching, fiber abstraction, round-robin scheduling, and a yielding mechanism.
+**Databases**
 
-- Task 1: Raw context switching via x86-64 assembly (`get_context`, `set_context`, `swap_context`)
-- Task 2: `Fiber` class + `Scheduler` with round-robin execution and shared data between fibers
-- Task 3: `yield()` mechanism — fibers pause mid-execution and resume seamlessly after others complete
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+**Tools**
 
-### [Custom String Class with Reference Counting](https://gitlab.uwe.ac.uk/y2-sharaf/asp_w1-w2)
-*C++ · Dynamic Memory Management · Templates*
-
-A from-scratch `my_string` class built across four progressive tasks, evolving from basic dynamic allocation to a fully templated reference counting system.
-
-- Task 1: Dynamic memory allocation with shallow copy semantics (`getChar`, `setChar`, boundary-checked access)
-- Task 2: Reference counting via `ref_count` pointer — memory freed automatically when the last reference is destroyed
-- Task 3: Full lifecycle demonstration with visible ref-count tracking as objects go in and out of scope
-- Task 4: Templated `ReferenceCounted<T>` class reusable across `int`, `double`, custom `point`, and `my_string` — eliminating per-type memory management boilerplate
-
----
-
-### [Custom Bump Allocator with Benchmarking](https://gitlab.uwe.ac.uk/y2-sharaf/asp_w1-w2)
-*C++ · Memory Allocators · SimpleTest · Benchmarking*
-
-A high-performance bump allocator built in C++ with full unit tests and a comparative benchmark between upward and downward allocation strategies.
-
-- Upward and downward bump allocators with alignment handling, thread safety via `std::mutex`, and a reset-on-zero-references deallocation model
-- 8 unit tests using SimpleTest covering single/multiple allocations, alignment, exact-fit, overflow, and reset/reallocation
-- Benchmarked across 4 allocation patterns (small, large, mixed, custom types); `-O3` optimisation dramatically reduced times
-- Downward allocator showed a measurable edge on high-frequency small allocations due to simpler pointer arithmetic mirroring stack behaviour
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### Security Data Analytics & Visualisation
-*Python · Pandas · Matplotlib · Seaborn · NetworkX*
+## 📊 GitHub Stats
 
-Investigated a simulated network attack on packet capture data using a multi-chart visualisation pipeline: packet volume over time, protocol distribution, source-destination scatter, node-link graph, and multi-protocol time series.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseensharaf&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseensharaf&layout=compact&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaseensharaf&hide_border=true" />
+</p>
 
-## 📄 About
+## 🔝 Top Contributed Repository
 
-- 🇯🇴 Jordanian National · 🇺🇸 U.S. Permanent Resident
-- Open to relocation across Jordan and GCC countries
-- BSc Computer Science — **First Class Honours**, UWE Bristol (2022–2025)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseensharaf&repo=YOUR_TOP_REPO_NAME&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaseensharaf&theme=flat&no-frame=true&row=1&column=6" />
+</p>
