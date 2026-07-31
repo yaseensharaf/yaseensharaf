@@ -2,7 +2,7 @@
 Hi, my name is Yaseen, and I am a Computer Science graduate with First Class Honours from the University of the West of England. I am passionate about backend development, machine learning, distributed systems, and systems programming, and I enjoy building production-ready applications that solve real-world problems using modern software engineering practices. Currently strengthening my skills in software engineering, networking, and cloud technologies while looking for new graduate Software Engineer opportunities.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaseen-sharaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseensharaf04/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseenammarsharaf@gmail.com)
 
 ### 💻 Tech Stack:
