@@ -31,12 +31,6 @@ Hi, my name is Yaseen, and I am a Computer Science graduate with First Class Hon
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yaseensharaf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaseensharaf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseensharaf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yaseensharaf&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yaseensharaf&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=yaseensharaf&hide_border=false&include_all_commits=true&count_private=true&bg_color=EAF4FF&title_color=1E88E5&text_color=555555&icon_color=FFC107&border_color=1E88E5)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaseensharaf&background=EAF4FF&border=1E88E5&stroke=1E88E5&ring=1E88E5&fire=FFC107&currStreakNum=1E88E5&sideNums=1E1E1E&currStreakLabel=1E88E5&sideLabels=1E1E1E&dates=555555&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseensharaf&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=EAF4FF&title_color=1E88E5&text_color=555555&border_color=1E88E5)
